@@ -1,0 +1,23 @@
+{
+  "name": "projectasincronismo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "gh-pages": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiguelDPP/ProjectAsincronismo.git"
+  },
+  "keywords": [],
+  "author": "Miguel Portillo <mipor.278@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MiguelDPP/ProjectAsincronismo/issues"
+  },
+  "homepage": "https://github.com/MiguelDPP/ProjectAsincronismo#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
